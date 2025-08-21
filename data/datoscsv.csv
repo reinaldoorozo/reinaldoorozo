@@ -1,0 +1,5 @@
+id,name,duration,level,calories,category,description,rating,completions,exercises
+1,Cardio HIIT Matutino,20 min,Intermedio,180-220,Cardio,Quema grasa rápidamente con intervalos de alta intensidad,4.8,1250,"Saltos de tijera, Burpees, Mountain climbers, Rodillas al pecho"
+2,Fuerza Total Body,35 min,Avanzado,250-300,Fuerza,Rutina completa para todo el cuerpo sin equipos,4.9,890,"Push-ups, Squats, Plancha, Lunges"
+3,Yoga Flow Relajante,25 min,Principiante,80-120,Flexibilidad,Mejora tu flexibilidad y encuentra paz interior,4.7,2100,"Saludo al sol, Guerrero I y II, Postura del niño, Savasana"
+4,Abs Definidos,15 min,Intermedio,100-140,Core,Fortalece tu core con ejercicios específicos,4.6,1680,"Crunches, Plancha lateral, Bicicleta, Dead bug"
